@@ -1,0 +1,12 @@
+.drop:hover{
+    background-color: rgb(85, 85, 172);
+}
+.light-bg{
+    background-color:rgba(0, 0, 255,0.3);
+}
+.dark-bg{
+    background-color: blue;
+}
+.red-bg{
+    background-color: red;
+}
